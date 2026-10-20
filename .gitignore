@@ -1,0 +1,19 @@
+# Build and temporary files
+build/
+out/
+*.o
+*.a
+*.elf
+*.bin
+*.hex
+*.map
+
+# Editor and operating-system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Local secrets and configuration
+secrets.h
+credentials.h
